@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Weather app ReactJS",
+    "desc": "Shows you the weather of any location you want. Build using ReactJS HTML and Tailwind CSS.",
+    "image": "weather-app",
+    "category": "all",
+    "links": {
+      "view": "https://weather-appp-reactt.netlify.app",
+      "code": "https://github.com/Hasnain-malikk/Weather-react-app"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "My personal portfolio website. Build using HTML CSS and JavaScript. Source code is in private repository. Contact me for source code.",
+    "image": "portfolio-website",
+    "category": "all",
+    "links": {
+      "view": "/",
+      "code": "https://github.com/Hasnain-malikk/main-portfolio"
+    }
+  },
+  {
+    "name": "News app React",
+    "desc": "Gives you the news of your interest or any topic you want. Build using ReactJS HTML and Bootstrap",
+    "image": "news-app",
+    "category": "all",
+    "links": {
+      "view": "https://drive.google.com/file/d/1uI2I7bQbcD03tz86zdt0lBuXb3RIA6YN/view",
+      "code": "https://github.com/Hasnain-malikk/News-React-app?tab=readme-ov-file"
+    }
+  },
+  {
+    "name": "E commerce Website",
+    "image": "e-commerce",
+    "desc": "E commerce web application. build using ReactJS and Tailwind CSS.User can buy anything he desires.",
+    "links": {
+      "view": "https://65e9c590d0e09f09d0187d3d--creative-biscotti-378396.netlify.app/",
+      "code": "https://github.com/Hasnain-malikk/E-commerce/blob/main/README.md"
+    }
+  },
+  {
+    "name": "Netflix Clone",
+    "desc": "Netflix front-end user interface clone. It is build using HTML CSS and JavaScript. Provides you the movies you want.",
+    "image": "netflix-clone",
+    "links": {
+      "view": "https://effulgent-naiad-a17021.netlify.app",
+      "code": "https://github.com/Hasnain-malikk/Netflix-clone-UI"
+    }
+  },
+  {
+    "name": "Text app React",
+    "desc": "Textutiles is a text app and can convert text into a form u want. Bulid using ReactJS and Bootstrap.",
+    "image": "text-app",
+    "links": {
+      "view": "https://mytextutile.netlify.app",
+      "code": "https://github.com/Hasnain-malikk/Textutiles-react-app"
+    }
+  }
+]
