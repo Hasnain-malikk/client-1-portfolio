@@ -24,7 +24,27 @@
         "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/TailwindCSS.png"
     },
     {
+        "name": "Canva",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/canva.png"
+    },
+    {
+        "name": "Capcut",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/capcut.png"
+    },
+    {
         "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "MS Excel",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/exceln.png"
+    },
+    {
+        "name": "MS Word",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/wordn.png"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/psn.png"
     }
 ]
