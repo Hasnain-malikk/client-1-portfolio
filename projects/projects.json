@@ -1,59 +1,66 @@
 [
   {
-    "name": "Weather app ReactJS",
-    "desc": "Shows you the weather of any location you want. Build using ReactJS HTML and Tailwind CSS.",
-    "image": "weather-app",
-    "category": "all",
-    "links": {
-      "view": "https://weather-appp-reactt.netlify.app",
-      "code": "https://github.com/Hasnain-malikk/Weather-react-app"
-    }
-  },
-  {
-    "name": "Portfolio Website",
-    "desc": "My personal portfolio website. Build using HTML CSS and JavaScript. Source code is in private repository. Contact me for source code.",
-    "image": "portfolio-website",
+    "name": "Activity 6",
+    "desc": "Activity 6 using HTML and CSS",
+    "image": "activity-6",
     "category": "all",
     "links": {
       "view": "/",
-      "code": "https://github.com/Hasnain-malikk/main-portfolio"
+      "code": "/"
+    }
+    },
+    {
+      "name": "Activity 1",
+      "image": "activity-1",
+      "desc": "Activity 1 using HTML and CSS.",
+      "links": {
+      "view": "/",
+      "code": "/"
     }
   },
   {
-    "name": "News app React",
-    "desc": "Gives you the news of your interest or any topic you want. Build using ReactJS HTML and Bootstrap",
-    "image": "news-app",
-    "category": "all",
+    "name": "Activity 2",
+    "desc": "Activity 2 using HTML and CSS.",
+    "image": "activity-2",
     "links": {
-      "view": "https://drive.google.com/file/d/1uI2I7bQbcD03tz86zdt0lBuXb3RIA6YN/view",
-      "code": "https://github.com/Hasnain-malikk/News-React-app?tab=readme-ov-file"
+      "view": "/",
+      "code": "/"
     }
   },
   {
-    "name": "E commerce Website",
-    "image": "e-commerce",
-    "desc": "E commerce web application. build using ReactJS and Tailwind CSS.User can buy anything he desires.",
+    "name": "Activity 3",
+    "desc": "Activity 3 using HTML and CSS",
+    "image": "activity-3",
     "links": {
-      "view": "https://65e9c590d0e09f09d0187d3d--creative-biscotti-378396.netlify.app/",
-      "code": "https://github.com/Hasnain-malikk/E-commerce/blob/main/README.md"
+      "view": "/",
+      "code": "/"
     }
   },
   {
-    "name": "Netflix Clone",
-    "desc": "Netflix front-end user interface clone. It is build using HTML CSS and JavaScript. Provides you the movies you want.",
-    "image": "netflix-clone",
+    "name": "Activity 4",
+    "desc": "Activity 4 using HTML and CSS",
+    "image": "activity-4",
     "links": {
-      "view": "https://effulgent-naiad-a17021.netlify.app",
-      "code": "https://github.com/Hasnain-malikk/Netflix-clone-UI"
+      "view": "/",
+      "code": "/"
     }
   },
   {
-    "name": "Text app React",
-    "desc": "Textutiles is a text app and can convert text into a form u want. Bulid using ReactJS and Bootstrap.",
-    "image": "text-app",
+    "name": "Activity 5",
+    "desc": "Activity 5 using HTML and CSS",
+    "image": "activity-5",
     "links": {
-      "view": "https://mytextutile.netlify.app",
-      "code": "https://github.com/Hasnain-malikk/Textutiles-react-app"
+      "view": "/",
+      "code": "/"
+    }
+  },
+  {
+    "name": "Activity 7",
+    "desc": "Activity 7 using HTML and CSS",
+    "image": "activity-7",
+    "links": {
+      "view": "/",
+      "code": "/"
     }
   }
 ]
